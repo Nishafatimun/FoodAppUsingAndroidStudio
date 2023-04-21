@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491691687408",
+    "project_id": "food-deliver-for-train",
+    "storage_bucket": "food-deliver-for-train.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491691687408:android:f31fa7693c07abcab7f135",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliverfortrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491691687408-mf57vqa3lvk2ho66opnju6fg864n76lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMAkANh7fR1jqFTH9BkI65h0TUS-PSHrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491691687408-mf57vqa3lvk2ho66opnju6fg864n76lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

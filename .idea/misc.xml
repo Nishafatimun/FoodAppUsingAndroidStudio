@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/drawable-v24/background_right.xml" value="0.29814814814814816" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/drawable/bg_rounded_input_field.xml" value="0.29814814814814816" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.29814814814814816" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_customer_cart.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_customer_dashboard.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_customer_login.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_customer_register.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_customer_reset_password.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_customer_show_food.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_customer_show_orders.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_customer_show_restaurant_food.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_main.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_register_login.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_restaurant_dashboard.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_restaurant_google_signin.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_restaurant_login.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_restaurant_register.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_restaurant_reset_password.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_restaurant_show_orders.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_restaurant_show_orders2.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_rider_dashboard.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_rider_login.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_rider_register.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_rider_reset_password.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_rider_show_order.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/activity_rider_user_location.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/cart_item.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/cust_food_layout.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/layout_restaurant.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/layout_show_orders.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/rest_add_food.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/rest_food_layout.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/FoodDeliverforTrain/app/src/main/res/layout/rider_layout_show_order.xml" value="0.2682291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
